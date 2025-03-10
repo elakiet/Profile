@@ -93,27 +93,27 @@ const internships = [
 
 
 const dataportfolio = [{
-        img: "https://files.oaiusercontent.com/file-1VygPnVT563UTMTnwGAky9?se=2025-03-09T10%3A37%3A26Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1a801b1c-3a86-4b94-a53f-eedd843895c9.webp&sig=IlqR1sOH9BfbIAIP7wJoKjyxN/oUCdwNdlpGU3Ph6Vs%3D",
+        img: "https://www.islabit.com/wp-content/uploads/2019/01/tokens-ERC-721-1.jpeg",
         description: "A blockchain project implementing ERC-20 and ERC-721 tokens on the Ethereum network, showcasing smart contract development and tokenization",
         link: "https://github.com/elakiet/ERCToken",
     },
     {
-        img: "https://files.oaiusercontent.com/file-1rRHNiCS3uvKqugH8yrJEN?se=2025-03-09T10%3A46%3A41Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da8c17a2f-dab5-4d2b-8943-9abf7e85272a.webp&sig=Rz4N5pAGCAd3BuyZ0Xb4bpX8V5HvP1lJ%2BHV7xCMARdE%3D",
+        img: "https://wallpapercave.com/wp/wp2347560.jpg",
         description: "A fun and interactive Candy Crush-style game built using JavaScript, HTML, and CSS, featuring vibrant graphics and engaging gameplay",
         link: "https://elakiet.github.io/Candy-Game/",
     },
     {
-        img: "https://files.oaiusercontent.com/file-2ZJoz9ag9g3wThCfdv9zAh?se=2025-03-09T10%3A50%3A04Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Def9de232-975c-4a33-b720-49c206996151.webp&sig=6GfOAhO7wpnBDXdHOBOEtI6UCOgNTBdW99PI0kMCOhk%3D",
+        img: "https://repository-images.githubusercontent.com/453632827/ea3adbbf-520d-4447-b50b-b2bc080357df",
         description: "An interactive Quiz App built using JavaScript, HTML, and CSS, featuring multiple-choice questions, a timer, and a scoreboard for an engaging experience",
         link: "https://elakiet.github.io/QuizWizz/",
     },
     {
-        img: "https://files.oaiusercontent.com/file-H3FPGgTekEG3Ev3NDxJT9R?se=2025-03-09T10%3A53%3A49Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dd641a490-8f58-48b4-b8ab-4c898f7aa02f.webp&sig=9b6RT%2BYR6z1R24OU9hHe2SdNBuGgzGbxlWW4UfKe%2BuU%3D",
-        description: "TA work-in-progress AI-powered Music Recommendation System that analyzes facial emotions to suggest personalized playlists, blending deep learning with user experience",
+        img: "https://images.squarespace-cdn.com/content/v1/59986e14914e6bf5daa4cc21/1559494516753-D8DPCIS2LQN7JDKVC7J7/image-asset.jpeg",
+        description: "AI-powered Music Recommendation System that analyzes facial emotions to suggest personalized playlists, blending deep learning with user experience-workinprogress",
         link: "https://github.com/elakiet/MoodBeatz-Emotion-based-music-recommendation",
     },
     {
-        img: "https://files.oaiusercontent.com/file-92r5oqV1jJjoEgsXG5FGnA?se=2025-03-09T11%3A03%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D818e2355-fe2a-4ff3-8789-b8f809610af7.webp&sig=79x/7EGXrQ0AeC6Bv1aXPCANJqF7a2zcC3PZVw4EFAg%3D",
+        img: "https://cdn.slidesharecdn.com/ss_thumbnails/1-141217062119-conversion-gate01-thumbnail-4.jpg?cb=1418797327",
         description: "A simple and well-structured webpage for Saveetha Engineering College, showcasing course details, navigation, and an academic-themed design",
         link: "https://elakiet.github.io/event",
     },
